@@ -1,0 +1,3 @@
+[submodule "content/ImagingLunch_ImagesInPython"]
+	path = content/ImagingLunch_ImagesInPython
+	url = https://github.com/EPFL-Center-for-Imaging/ImagingLunch_ImagesInPython.git
