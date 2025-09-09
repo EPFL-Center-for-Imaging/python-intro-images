@@ -1,7 +1,7 @@
-numpy
-pandas
-matplotlib
-scikit-image
+# numpy
+# pandas
+# matplotlib
+# jupyterlab
+# scikit-image
 tifffile
-jupyterlab
 jupyterlab-myst
